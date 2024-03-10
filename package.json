@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anhtn512/sum-three-number.git"
+    "url": "git+https://github.com/phlteam/sum-three-number.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anhtn512/sum-three-number/issues"
+    "url": "https://github.com/phlteam/sum-three-number/issues"
   },
-  "homepage": "https://github.com/anhtn512/sum-three-number#readme"
+  "homepage": "https://github.com/phlteam/sum-three-number#readme"
 }
