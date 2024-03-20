@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "colors": "^1.4.0",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "express":"latest",
+    "ejs":"latest"
   },
   "name": "sum-three-number-phl",
   "version": "1.0.0",
