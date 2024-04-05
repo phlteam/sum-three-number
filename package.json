@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "colors": "^1.4.0",
+    "sum-three-number":"latest",
     "prompt-sync": "^4.2.0",
     "express":"latest",
     "ejs":"latest",
